@@ -33,9 +33,7 @@ display: block;
  clear: both;
 }
 .line.light {
- border-bottom: 1px solid #626262;
-}
-input {
+ input {
  border: 0px;
  background-color: transparent;
  font-size: 48pt;
@@ -43,4 +41,5 @@ input {
  font-family: "Helvetica Neue";
  color: #444;
  font-weight: 300;
+ border-bottom: 1px solid #626262;
 }
